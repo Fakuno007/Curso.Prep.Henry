@@ -1,0 +1,18 @@
+*Variables : Es un elemento que refiere a cosas que son susceptibles de ser modificadas (de variar) , de cambiar 
+                    en funcion de algun motivo determinado o indeterminado.
+                    El termino variable hace referencia a cosas con poca estabilidad , que al poco tiempo
+                    puede tenes alteraciones totales o nunca adquieren una constancia.
+*Strings:     Es un objeto que se representa en forma de texto (secuencia de caracteres)      
+
+*Funciones (Argumentos, "return") : Una funcion es un procedimiento o conjunto de instrucciones
+                                                             que realiza una tarea o calcula un valor , pero para que el procedimiento
+                                                             sea valido como funcion , debe tomar un valor de entrada y devolver uno de salida
+                                                             y que tengan una relacion obvia entre ambas.
+                                                             Los argumentos son valores que deben proporcionarse para obtener el resultado de la funcion
+                                                             La sentencia return finalizaz la ejecucion de la funcion y especifica un valor para ser devuelto
+                                                             cuando alguien invoca a la fauncion.
+
+*Desclaraciones if : Es una sentencia condicional , si se cumple una expresion de la funcion devolvera un valor , de caso contrario
+                                 devolveria un valor distinto del inicial.
+
+*Valores booleanos : Es una variable que solo puede tomar dos posibles valores : true or false. 
