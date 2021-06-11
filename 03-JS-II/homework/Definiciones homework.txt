@@ -1,0 +1,10 @@
+* For : este concepto se utiliza cuando queremos repetir un conjunto de intrucciones un numero
+           finito de veces
+
+* && (Ampersand) : Este operador corresponde al booleano AND (en español seria Y) , en este caso
+                                 el resultado es verdadero , en cualquier otro caso el resultado sera falso.
+
+* || (Pipeline) : Corresponde al booleano OR (en español seria O) , el resultado sera verdadero si al menos
+                        una de las dos expresiones es verdadera.
+
+* ! : Este objeto se utiliza para negaciones (forzar a falso).
