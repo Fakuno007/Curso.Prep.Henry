@@ -1,0 +1,5 @@
+* Array (Arreglo): Es una lista creada para contener objetos de distintos tipos (strings , numeros , booleanos , funciones , etc.)
+                             Los arrays pueden, a parte de ser creados , incorporar o extraer objetos.
+                             Tiene la siguiente forma: 
+                            
+                              Array = [1 , "nombre", false, console.log(Array)] 
